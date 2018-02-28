@@ -1,0 +1,52 @@
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Bot Application.dll.config
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Bot Application.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Bot Application.pdb
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Autofac.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Chronic.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Newtonsoft.Json.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\System.Net.Http.Formatting.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\System.Web.Http.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\System.Web.Http.WebHost.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Autofac.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\Newtonsoft.Json.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\System.Net.Http.Formatting.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\System.Web.Http.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\System.Web.Http.WebHost.xml
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\obj\Debug\DemoMeetupBot.csprojResolveAssemblyReference.cache
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\obj\Debug\DemoMeetupBot.csproj.CoreCompileInputs.cache
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\obj\Debug\Bot Application.dll
+C:\Users\YUDNER\Desktop\DemoMeetup\DemoMeetupBot\obj\Debug\Bot Application.pdb
